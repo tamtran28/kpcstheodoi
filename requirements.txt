@@ -1,0 +1,9 @@
+streamlit
+pandas
+python-docx
+pillow
+pytesseract
+opencv-python
+numpy
+xlrd
+openpyxl
